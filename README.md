@@ -1,7 +1,8 @@
 ![Header](https://github.com/drakoRRR/drakorrr/blob/main/assets/MOSHED-2023-8-30-14-42-8.gif)
 
 ## About me
-
+- 📝 Second year Student CS
+- 🌱 Currently learning Django
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=0277BD)
