@@ -10,7 +10,5 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=004D40)
 
 ### Social media
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?
-style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/vlad-musaelyan-5966a1278/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-090909?
-style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/drakoRRR/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vlad-musaelyan-5966a1278/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/drakoRRR/)
