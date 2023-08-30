@@ -9,5 +9,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=D1C4E9)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=004D40)
 
-
-Social media
+### Social media
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?
+style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/vlad-musaelyan-5966a1278/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-090909?
+style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/drakoRRR/)
