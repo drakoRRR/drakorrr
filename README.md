@@ -9,6 +9,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-BF616A?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -42,6 +43,16 @@ This website offers users the ability to add tasks with associated deadlines, ta
 it provides a simple mechanism for task deletion upon completion. Furthermore, the website have a real-time weather 
 feature, displaying weather information based on the user's IP address. In the event the IP address is inaccessible, 
 the weather data defaults to London's conditions.
+
+* [ToDo API](https://github.com/drakoRRR/ToDo_API)
+
+The ToDo API project was created for educational purposes to explore technologies like Python, Django, Django Rest Framework,
+MySQL, Docker, and JWT-Auth for authentication. It offers users the ability to manage tasks and categories:
+
+Users can retrieve, update, create, and delete tasks through specific endpoints. Completed 
+tasks can be retrieved. Tasks can be filtered by category. Superusers can check, update, create, and 
+delete categories. The project utilizes Docker for easy deployment and JWT for secure authentication, making 
+it a valuable educational experience in web development and API creation.
 
 ### Social media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vlad-musaelyan-5966a1278/)
