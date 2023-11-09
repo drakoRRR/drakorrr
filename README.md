@@ -37,6 +37,17 @@ In addition, we leveraged Django Channels and WebSockets to implement a real-tim
 and interactivity. Our project primarily revolves around a blog, where we have integrated features such as adding friends, 
 creating posts, and implementing a likes system to enrich the overall user experience.
 
+* [ChatSynthia](https://github.com/drakoRRR/chatSynthia)
+
+Chat Synthia, a Django application, harmoniously integrates with the OpenAI API for natural language responses and image 
+generation based on user inputs. The tech stack includes Python/Django, PostgreSQL, and HTML/CSS/Bootstrap. Featuring 
+three models, the app extends user models with image storage and email verification status. Users can authenticate via 
+Login, Logout, and Sign up pages, with a convenient one-click conversation removal for enhanced privacy. The OpenAI API 
+integration supports a spectrum of applications, from customer service chatbots to website and app assistants, including
+image generation from user input. The installation is straightforward, utilizing Python3 and Django, with Docker support 
+available. The app's usage involves submitting messages through the web interface, triggering the OpenAI API for responses, 
+and showcasing interactive c apabilities through visuals.
+
 * [ToDo Website](https://github.com/drakoRRR/ToDo_Django)
 
 This website offers users the ability to add tasks with associated deadlines, tags, and descriptions. Additionally, 
