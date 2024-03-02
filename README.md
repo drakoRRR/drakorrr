@@ -2,7 +2,6 @@
 
 ## About me
 - 📝 Second year Student CS
-- 🌱 Currently learning DRF
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
