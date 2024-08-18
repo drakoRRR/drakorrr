@@ -1,12 +1,13 @@
 ![Header](https://github.com/drakoRRR/drakorrr/blob/main/assets/MOSHED-2023-8-30-14-42-8.gif)
 
-## About me
-- 📝 Second year Student CS
-
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-BF616A?style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-666666?style=flat&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-01748D?style=flat&logo=alembic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -15,6 +16,7 @@
 ![RESTful](https://img.shields.io/badge/-RESTful-43853D?style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-01748D?style=flat&logo=javascript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### Pet projects
